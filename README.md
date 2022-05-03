@@ -103,7 +103,7 @@ Hvis jeg skriver 30 og 20, blir eksempel output: (summen av tallene er 50)
 
 ## Oppgave 5
 Skriv et JavaScript-program for å lage følgende mønster ved å bruke nested for-loop
-*
+"*
 
 **
 
@@ -121,7 +121,7 @@ Skriv et JavaScript-program for å lage følgende mønster ved å bruke nested f
 
 **
 
-*
+*"
 
 ## Løsning
 ---
