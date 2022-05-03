@@ -105,21 +105,21 @@ Hvis jeg skriver 30 og 20, blir eksempel output: (summen av tallene er 50)
 Skriv et JavaScript-program for å lage følgende mønster ved å bruke nested for-loop
 *
 
-* *
+**
 
-* * *
+***
 
-* * * *
+****
 
-* * * * *
+*****
 
-* * * * *
+*****
 
-* * * *
+****
 
-* * *
+***
 
-* *
+**
 
 *
 
@@ -147,22 +147,23 @@ for (x = 1; x <= 6; x++) {
 ---
 
 ## Eksempel Output
+
 *
 
-* *
+**
 
-* * *
+***
 
-* * * *
+****
 
-* * * * *
+*****
 
-* * * * *
+*****
 
-* * * *
+****
 
-* * *
+***
 
-* *
+**
 
 *
